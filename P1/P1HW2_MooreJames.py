@@ -1,5 +1,3 @@
-
-
 budget=int(input("Enter the budget:"))  #Users Total Budget Input
 destination=input("Enter Your destination:")  #Users Desintaion Input
 fuel=float(input("Enter amount that you will spend on gas:"))  #Users Gas Expenses Input
