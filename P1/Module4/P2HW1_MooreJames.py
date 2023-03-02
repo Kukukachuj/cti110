@@ -1,6 +1,6 @@
 #A program that takes in a users Trip exspenses and budget and displays them while subtracting the exspenses from thier budget. 
-#Date 02-12-2023
-#CTI-110P1HW2 - Travel Expsense 
+#Date 03-1-2023
+#CTI-110P2HW1 - Travel Expsense 
 # James Moore
 budget=int(input('Enter the budget:'))  
 destination=input('Enter Your destination:')  

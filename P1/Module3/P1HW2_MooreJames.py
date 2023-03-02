@@ -5,8 +5,8 @@
 budget=int(input("Enter the budget:"))  #Users Total Budget Input
 destination=input("Enter Your destination:")  #Users Desintaion Input``
 fuel=int(input("Enter amount that you will spend on gas:"))  #Users Gas Expenses Input
-accomodation=int(input("Enter amount that you will spend on accomodation:")) #User Accomodation Input
-food=int(input("Enter amount that you will spend on food:")) #Users Food Expenses Input
+accomodation=int(input("Enter amount that you will spend on accomodation:")) #Accomodation Input
+food=int(input("Enter amount that you will spend on food:")) #Food cost Input
 expenses=fuel+accomodation+food #Addintion of all Expenses  
 print("----------------Travel Exspenses-----------------") #Prints Title bar
 print("Location:",destination) #Prints User Location
