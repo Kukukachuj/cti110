@@ -27,4 +27,4 @@ print('Employee name: ',e_name)                                                 
 print()                                                                                                          #|
 print('Hours Worked \t Pay Rate \t OverTime \t OverTimePay \t RegHour Pay \t Gross Pay')                         #| Output
 print('-'*100)                                                                                                    #|
-print(f'{hours_wrked}  \t\t {pay_rate} \t\t {over_time} \t\t {overTime_pay} \t ${regular_pay:.2f} \t ${gross_pay}')
+print(f'{hours_wrked}  \t\t {pay_rate} \t\t {over_time} \t\t {overTime_pay} \t\t ${regular_pay:.2f} \t ${gross_pay}')
